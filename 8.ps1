@@ -1,5 +1,5 @@
-﻿$in = Get-Content -Path "C:\Users\adm.spatt\Desktop\day8.txt"
-#$in = Get-Content -Path "C:\Users\adm.spatt\Desktop\day8test.txt"
+﻿$in = Get-Content -Path "in\day8.txt"
+#$in = Get-Content -Path "in\day8test.txt"
 
 #7981 too high
 
