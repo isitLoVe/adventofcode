@@ -1,6 +1,6 @@
 ﻿$DebugPreference = "Continue"
 
-$in = Get-Content -Path "C:\Users\adm.spatt\Desktop\Neuer Ordner\day9.txt"
+$in = Get-Content -Path "in\day9.txt"
 
 #$in = "{{{},{},{{}}}},"
 
